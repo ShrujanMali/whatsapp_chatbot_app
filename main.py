@@ -10,7 +10,7 @@ from utils import send_message, logger
 
 app = FastAPI()
 # openai.api_key = config("OPENAI_API_KEY")
-genai.configure(api_key="AIzaSyD5K9BT5fIolElBIvDGSbFCrPpQW9e83GU")
+genai.configure(api_key="APIKEY")
 whatsapp_number = config("TO_NUMBER")
 
 def get_db():
