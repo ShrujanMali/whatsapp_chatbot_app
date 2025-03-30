@@ -23,7 +23,7 @@
 
 2. Navigate to the project directory:
 
-        cd face-recognition-attendance
+        cd whatsapp_chatbot_app
 
 3. Create and activate virtual environment
 
