@@ -6,6 +6,6 @@
 ## Technologies used
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,git" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,gcp,git" />
   </a>
 </p>
