@@ -33,3 +33,10 @@
 4. Install the required libraries:
 
        >>> pip install -r requirements.txt
+
+## How to get Gemini API
+
+1. Go to https://aistudio.google.com/prompts/new_chat
+2. Create new account if you are new user
+3. After account creation click on "Get API click" and then select "create API key"
+
