@@ -35,8 +35,13 @@
        >>> pip install -r requirements.txt
 
 ## How to get Gemini API
+1. Go to Google cloud >> https://console.cloud.google.com/cloud-resource-manager?invt=Abtaog
+2. And create new project
+3. Then visit https://aistudio.google.com/prompts/new_chat
+4. Click on "Get API click" and then select "create API key"
+5. Select your project from the drop down after clicking on "create API key"
+6. Copy and use into code.
 
-1. Go to https://aistudio.google.com/prompts/new_chat
-2. Create new account if you are new user
-3. After account creation click on "Get API click" and then select "create API key"
+## How to Get Twilio API key for What'sAPP use
+
 
