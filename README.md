@@ -49,6 +49,6 @@ You can use ChatGPT API also.
 2. Then left hand side select "Develop" option and then select "messaging" >> "Send a Whatsapp Message"
 3. Then Scan the QR code using your What'sApp application and type "join bow-brain" and send
 4. Then copy this following deatils from twilio and store into .env file
-               TWILIO_ACCOUNT_SID="<account_sid >"
-               TWILIO_AUTH_TOKEN="auth_token "
-               TWILIO_NUMBER="<Twilio_phone_number>"
+   i) TWILIO_ACCOUNT_SID = "<account_sid>"
+   ii) TWILIO_AUTH_TOKEN = "<auth_token>"
+   iii) TWILIO_NUMBER = "<Twilio_phone_number>"
