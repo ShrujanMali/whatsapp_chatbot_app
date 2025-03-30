@@ -40,8 +40,15 @@
 3. Then visit https://aistudio.google.com/prompts/new_chat
 4. Click on "Get API click" and then select "create API key"
 5. Select your project from the drop down after clicking on "create API key"
-6. Copy and use into code.
+6. Copy and store into .env file.
+
+You can use ChatGPT API also.
 
 ## How to Get Twilio API key for What'sAPP use
-
-
+1. Visit to https://console.twilio.com/
+2. Then left hand side select "Develop" option and then select "messaging" >> "Send a Whatsapp Message"
+3. Then Scan the QR code using your What'sApp application and type "join bow-brain" and send
+4. Then copy this following deatils from twilio and store into .env file
+               TWILIO_ACCOUNT_SID="<account_sid >"
+               TWILIO_AUTH_TOKEN="auth_token "
+               TWILIO_NUMBER="<Twilio_phone_number>"
